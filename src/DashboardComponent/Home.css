@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.NavbarOut {
+    height: 65px;
+    display: flex;
+    
+}
+
+.navBarStyle {
+    color: ghostwhite;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+
+.IconStyle {
+    color: white;
+    justify-content: end;
+  
+}

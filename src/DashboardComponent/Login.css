@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.NavbarOut {
+    height: 65px;
+}
+.navBarStyle {
+     font-weight: bold;
+    font-size: 35px;
+    color: white;
+    
+}
+
+.LoginPage-Wrapper {
+  background-color: gainsboro;
+}
+
+.CardStyle {
+    display:flex;
+    justify-content: center;
+    margin-top: 100px;
+    
+}
+.InnerCardStyle{
+    width: 350px;
+}
+.CardTitle {
+    text-align: center;
+}
+
+.button {
+    display: flex;
+    justify-content: flex-end;
+}
